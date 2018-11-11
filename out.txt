@@ -1,0 +1,6 @@
+Allocated 200 elements
+Average so far is -4.63183e+06 - Array size now 260
+Average so far is 323903 - Array size now 338
+Average so far is -3.4882e+06 - Array size now 439
+Average so far is -767336 - Array size now 500
+Average so far is -336861 - Array size now 500
